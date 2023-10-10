@@ -1,4 +1,4 @@
-const Soma = require("./math");
+import { Soma } from "../app/math";
 
 describe('Math', () => {
     it('should return correct sum', () => {
