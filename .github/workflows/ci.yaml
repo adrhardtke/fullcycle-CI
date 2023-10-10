@@ -3,6 +3,7 @@ on:
   pull_request:
     branchs:
       - develop
+      
 jobs:
   check-application:
     runs-on: ubuntu-latest
