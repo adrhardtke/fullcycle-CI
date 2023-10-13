@@ -5,6 +5,7 @@
   "main": "math.js",
   "scripts": {
     "start": "ts-node ./app/math.ts",
+    "build": "tsc",
     "test": "jest"
   },
   "keywords": [],
